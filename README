@@ -1,0 +1,10 @@
+This is Latex version letter paper with National Taiwan University letterhead.
+The letter head is downloaded from here (http://www.ntu.edu.tw/about/CIS.html).
+
+You can easily use by 3 steps.
+
+1. Clone this repository
+2. Replace the dummy text with your letter content
+3. Execute pdflatex letter.tex
+
+Done.
